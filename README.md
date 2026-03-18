@@ -28,7 +28,7 @@ console.log(nome);
   <body>
   <html>
 
-  </> CSSwit
+  </> CSS
 
   body{
   front-family: Arial;
