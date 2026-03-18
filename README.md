@@ -27,3 +27,28 @@ console.log(nome);
 
   <body>
   <html>
+
+  </> CSSwit
+
+  body{
+  front-family: Arial;
+  text-align:center;
+  background:#f0f7ff;
+  }
+
+  input{
+  padding:10px;
+  margin:5px;
+  }
+
+  button{
+  padding:10px 20px;
+  background:#4CAF50;
+  color:white;
+  boder:none;
+  cursor:pointer;
+  }
+    
+
+  
+  
